@@ -4,27 +4,15 @@
    	<modelVersion>4.0.0</modelVersion>
 
    	<groupId>com.SHS.APCS</groupId>
-   	<artifactId>Lab-00-HelloWorld</artifactId>
+   	<artifactId>Lab-##-Name</artifactId>
    	<version>1.0</version>
 
 	<dependencies>
 		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-engine</artifactId>
-			<version>5.6.2</version>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
 		</dependency>
-		
-		<dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-params</artifactId>
-            <version>5.5.0</version>
-        </dependency>
-
-	    <dependency>
-           	<groupId>org.hamcrest</groupId>
-        	<artifactId>hamcrest</artifactId>
-        	<version>2.1</version>
-        </dependency>
 	</dependencies>
 
 	<build>
