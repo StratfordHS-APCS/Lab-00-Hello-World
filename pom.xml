@@ -58,7 +58,7 @@
 						</goals>
 					</execution>
 				</executions>
-            </plugin>
-        </plugins>
-    </build>
+            		</plugin>
+        	</plugins>
+    	</build>
 </project>
